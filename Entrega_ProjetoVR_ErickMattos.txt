@@ -1,0 +1,25 @@
+Nome do Aluno: Erick de Araújo Mattos
+CPF: 602.902.852-91
+Turma: Web 3.0 - Residência em TIC 29
+Atividade: Projeto Final - Meu Primeiro Ambiente VR
+Nome do Projeto: C4-AMAZON: Gêmeo Digital e Comando DePIN
+
+Link do Repositório GitHub: https://github.com/YakamiTech/C4-AMAZON-DigitalTwin-TIC29.git
+
+RESUMO DO PROJETO
+Este projeto em Realidade Virtual funciona como um Gêmeo Digital (Digital Twin) do Centro de Comando e Controle (C4) da Yakami Tech. O ambiente imersivo simula a recepção de telemetria do nanossatélite YAKAMI-SAT1 e a comunicação com as ECO Stations na floresta amazônica. O objetivo é demonstrar a gestão de infraestruturas físicas descentralizadas (DePIN) e a execução de auditorias ambientais via Smart Contracts na Web 3.0.
+
+PRINCIPAIS MECÂNICAS XR IMPLEMENTADAS
+• SDK e Framework: Desenvolvido em Unity (URP) utilizando o Meta XR SDK e o XR Interaction Toolkit.
+• Sistema de Locomoção: Continuous Move Provider para permitir a exploração fluida da base na selva.
+• Manipulação de Hardware (Grab & Sockets): Configuração de XR Grab Interactable para manipulação de placas (RP2040) e uso de XR Socket Interactor para simular a manutenção e encaixe preciso de componentes físicos.
+• Interação com UI (World Space): Utilização de XR Ray Interactor para navegação em menus flutuantes e acionamento de painéis holográficos de registro na blockchain.
+
+INSTRUÇÕES PARA AVALIAÇÃO
+Faça o clone do repositório através do link acima.
+
+Abra o projeto no Unity Hub (versões compatíveis com URP/Android).
+
+Navegue até a pasta de Cenas (Assets/Scenes) e abra a cena principal do projeto.
+
+O projeto pode ser testado diretamente no PC utilizando o XR Device Simulator (teclado/mouse) ou compilado (Build .apk) para execução nativa no Meta Quest.
