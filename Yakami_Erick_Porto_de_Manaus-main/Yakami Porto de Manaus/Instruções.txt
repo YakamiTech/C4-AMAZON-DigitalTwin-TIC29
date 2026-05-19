@@ -1,0 +1,12 @@
+Aluno: Erick de Araújo Mattos
+CPF: 602.902.852-91
+Projeto: C4-AMAZON VR (Gêmeo Digital e Comando DePIN)
+Link do Repositório GitHub: https://github.com/YakamiTech/C4-AMAZON-DigitalTwin-TIC29.git
+
+5 Objetos
+
+1 Papel
+2 Grama
+3 Walk talk
+4 TV
+5 Grade
