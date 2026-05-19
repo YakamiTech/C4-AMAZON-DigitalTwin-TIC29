@@ -24,7 +24,7 @@ Para manter o projeto otimizado e limpo, este repositório contém apenas os fic
 
 ## 🎮 Como Executar o Projeto
 1. Clone este repositório para o seu computador:
-   `git clone https://github.com/SEU-USUARIO/C4-AMAZON-DigitalTwin-TIC29.git`
+   `git clone https://github.com/YakamiTech/C4-AMAZON-DigitalTwin-TIC29.git)`
 2. Abra o Unity Hub e clique em **Add** para selecionar a pasta clonada.
 3. Certifique-se de que possui os módulos de *Android Build Support* instalados.
 4. Abra a cena principal localizada em `Assets/Scenes/C4_Amazon_Main.unity`.
